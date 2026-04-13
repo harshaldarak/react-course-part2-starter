@@ -29,7 +29,7 @@ const PostList = () => {
         {isFetchingNextPage ? "Loading..." : "Load More"}
       </button>
     </>
-  );
+  )
 };
 
 export default PostList;
